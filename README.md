@@ -85,6 +85,8 @@ Content-Type: application/json
 AI chat:
 
 ```text
+http://localhost:3000/ai
+
 POST /api/ai/chat
 Content-Type: application/json
 

@@ -404,8 +404,6 @@ export default function CourseAIChat() {
 
             borderRadius: "6px",
 
-            background: "#fff",
-
             cursor: loading
               ? "not-allowed"
               : "pointer",

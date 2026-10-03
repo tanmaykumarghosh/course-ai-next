@@ -121,7 +121,6 @@ export default function StudentDashboard() {
             padding: "10px 18px",
             border: "1px solid #ddd",
             borderRadius: "6px",
-            background: "#fff",
             cursor: "pointer",
           }}
         >
